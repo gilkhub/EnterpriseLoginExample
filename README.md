@@ -1,5 +1,4 @@
 # EnterpriseLoginExample
 
-See
-https://enterprise-demo.orangehrmlive.com/auth/login
-
+A demo tesk for automating web app test in chrome browser.
+See instructions.
